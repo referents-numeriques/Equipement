@@ -1,3 +1,3 @@
-- 2019-2020 : Asus C223NA
-- 2020-2021 : Asus C423NA
-- 2021-2022 : Lenovo 14e Chromebook Gen 2
+- 2019-2020 : Asus C223NA (4Go RAM, 32Go SSD, 11.6")
+- 2020-2021 : Asus C423NA (8Go RAM, 64Go SSD, 14")
+- 2021-2022 : Lenovo 14e Chromebook Gen 2 (8Go RAM, 64Go SSD, 14")
